@@ -1,1 +1,3 @@
-# C11A-1
+# Names: Eric Hansen and Maxim Alvarado
+# Section: A
+# Outside sources: none
