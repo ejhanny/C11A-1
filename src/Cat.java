@@ -45,5 +45,6 @@ public class Cat {
 		// Meow text appears below cat head, +10 places below 
 		// so it doesn't overlap the drawing
 		g2.drawString("Fetch me their souls, John", catX, catY+HEAD_DIMENSION+10);	
+		g2.drawString("...And delete Mondays from existence while you're at it.", catX, catY+HEAD_DIMENSION+20);
 	}
 }
